@@ -1,0 +1,27 @@
+C:\Documents and Settings\Virtual\Desktop\WordSaver\bin\Debug\WordSaver.dll
+C:\Documents and Settings\Virtual\Desktop\WordSaver\bin\Debug\WordSaver.pdb
+C:\Documents and Settings\Virtual\Desktop\WordSaver\bin\Debug\WordSaver.xml
+C:\Documents and Settings\Virtual\Desktop\WordSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\WordSaver\obj\Debug\WordSaver.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\WordSaver\obj\Debug\WordSaver.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\WordSaver\obj\Debug\WordSaver.dll
+C:\Documents and Settings\Virtual\Desktop\WordSaver\obj\Debug\WordSaver.xml
+C:\Documents and Settings\Virtual\Desktop\WordSaver\obj\Debug\WordSaver.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\bin\Debug\WordSaver.dll
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\bin\Debug\WordSaver.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\bin\Debug\WordSaver.xml
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\obj\Debug\WordSaver.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\obj\Debug\WordSaver.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\obj\Debug\WordSaver.dll
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\obj\Debug\WordSaver.xml
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordSaver\obj\Debug\WordSaver.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\bin\Debug\WordSaver.dll
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\bin\Debug\WordSaver.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\bin\Debug\WordSaver.xml
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\obj\Debug\WordSaver.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\obj\Debug\WordSaver.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\obj\Debug\WordSaver.dll
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\obj\Debug\WordSaver.xml
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordSaver\obj\Debug\WordSaver.pdb

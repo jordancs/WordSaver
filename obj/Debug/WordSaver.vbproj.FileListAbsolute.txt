@@ -1,0 +1,10 @@
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\bin\Debug\WordSaver.dll
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\bin\Debug\WordSaver.pdb
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\bin\Debug\WordSaver.xml
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\obj\Debug\WordSaver.Resources.resources
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\obj\Debug\WordSaver.vbproj.GenerateResource.Cache
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\obj\Debug\WordSaver.dll
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\obj\Debug\WordSaver.xml
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\obj\Debug\WordSaver.pdb
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\obj\Debug\WordSaver.vbproj.AssemblyReference.cache
+D:\Jordan\Programas\Vite2011 Proj\WordSaver\obj\Debug\WordSaver.vbproj.CoreCompileInputs.cache
